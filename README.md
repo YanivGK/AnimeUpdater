@@ -17,5 +17,5 @@ Allow you to get notifications for your favorite animes.
  4. Write command: python the_location_of_this_script
     For example: python C:/Selenium_Firefox.py
   
-Hope it help you as it help me,
+Hope it help you as it helped me,
 Comment for feedback.
